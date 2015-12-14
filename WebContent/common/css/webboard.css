@@ -1,0 +1,18 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a.no-uline {text-decoration:none}
+
+.center {position:absolute; top:50%; left:50%; margin-left:-250px; margin-top:-150px;}
+	
+
+<!-- ---------------------------------------------------- -->
+.loginTable {width:545px; height:356px;}
+.loginTableTd {width:545px; height:356px;}
+.loginInput{border-color:#BEBEBE; background-color:#FFFFFF; border-style:sold;
+            border-top-width:0px; border-right-width:0px; border-bottom-width:1px; border-left-width:0px;
+			color:#000000 font-weight:bold; font-family:����; width:150px; padding:0px; font-size:1.0em;
+			}
